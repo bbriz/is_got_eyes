@@ -1,7 +1,4 @@
 "#is_got_eyes" 
-Youtube: https://youtu.be/BmgnsZA3Yr0
-Github: https://github.com/bbriz/is_got_eyes
-I's Got Eyes
 
 This program is a security tool to help monitor people under certain situations. It could be used by an employer or a school to monitor people. Perhaps it could be used by a teacher to prevent students from cheating on a computer-based exam, or maybe an employer wants to evaluate how much copying and pasting an employee does.  It performs the following:
 
